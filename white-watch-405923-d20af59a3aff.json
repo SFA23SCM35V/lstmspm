@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "white-watch-405923",
+  "private_key_id": "d20af59a3afff9c98eca2134a2c9b3633607a264",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCLmH8C4wxu3rGU\nkL+8eK8RzOlX7U/EFeAs1+Hat+VXu3+CH7AIpmVUajjmHcNXtsJgR6/84UvCSgkO\nq8ysaLlBx0x3JONoEWGH0w5iaTVo4M3rn71GUA/BxLqEPzUGESlNl1Yuba9Oycup\n9e6vqyW7yzYOvtbtLz+VvAvquzl3mlaCUz77YlIfzBno9tR4rK53WsbKDOPWAVt3\nASc+PKuu21yId3+M0E/QlWYcqhPYMAZtQoIkwIjeb0XARscGpkvufhSNAiy+H+8w\nFVbdkccCg0Bdo+f95vQCL4iAPApXiIgnWfT9zsT5xYgqGoCP/KxniY9G2VrLZrVc\nIGOcxBRhAgMBAAECggEAAV8S/FsbqlPWExtlmXs8CQ+QyUmDtkLwFrCw6ij9VU0l\nFbOsUzbDRGmIu+YAnxzPWwpz6vw8S3aBEUZUdpXOysZ49Kta7+ZKetRII2UHiSC6\n6nzWwK6VAQvRje61ss9krvufdUmkO8DAF0rbDe8Uqfwh61IqTV6LSt7JOoSdWL9F\nMPe1v+OimCLsS5Lm+OQaTK90JGvCPFMyZ48Jux0v7VURgZiJsm8WOCIeJ4PjB/zF\n2cDAKxXLzbFDvziuzMuLrSX1wr2xbpZZNTpccd8LFToMbFhEwEb2bDyG++9YOm0C\nwG8O3Qv668o0JeaVjEvXASBh86jihqJKCAmeuqCkAQKBgQDE8Sg42EgzGvmX0UIz\njcXDS+1VfLT0poxLWw0WKSv3eyNwsQkOCchy0EHdOClnG51jEu9D+tcTpt6pGkD7\nVilYGku83Ycew56J2+dyJUG07+M6sSSBioE1EUwRccIHyFm+ZiSVbsgbAELsqo/U\nfRmHz+wt3KBtHiiiTpF7UNzbIQKBgQC1dPn22wvhNrduWHBaOUTyJVzPp2CNq1ed\nOnXXGiJhsD23wSWyAOWKeWZOp6aQBoqeG3YQ1ZCRc9fgP8veDg5cD3QvP03sIsCQ\n52c23kpBz+fMhoPeUIVX4O/391mr+EIAg/wQdQtQzP5bkpnvQKhw4dDGU7B4tAJd\nrOByGvtRQQKBgC1btX3SIl7S2aVjprGk92VReWn0/OBT83/vioYOGXg4PiNYQtOe\n4THAUUsYAkEjFQ6ab8ziWuLFzgZ4a3r3jzIhbEwlYVduincJ1LZvakC390evQM8t\nDTEhuLlTz/Jm7HRzpf1ctG2zk7ZaWiIAZf7nnme5pqE7DvTCz7LtHtDBAoGBAJeV\nrOuHeZkeeIX544G7rdkLVUkzbflrVbnHCII1Ftu8uxIyjCbzkM3pNIooi4Bttob2\nMd9GSYr41zJCmTBbVauaTVja7WGCdpOWfCbd8/Kel+nHxYmGgp4zDsR7IbIDpj+A\nAqZM4LMTTLl68pVn0k7alenYJ+ftmLxgmu83kxMBAoGABX1flMd+TT1PhkTM/9Im\nQBrDC5OTZvHDi6UwMpG6cRCwvIn1PDcTndHf8ZhzOp62MI1AI9czFp389h+feVRR\nH023XOl+GKmmSxsvuG7yi4tTA23lET5ZnGlPd4D4MxisEM7tSTrIGoOXlmHSEhwR\nhI6/Pwr0gGhFtW7TxgrscuQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "lstm-service-account@white-watch-405923.iam.gserviceaccount.com",
+  "client_id": "107448488571139567891",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lstm-service-account%40white-watch-405923.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
